@@ -87,8 +87,6 @@ dokku postgres:create rails-database
 dokku postgres:link rails-database my-super-app
 ```
 
-## Domains
-
 ## Let's encrypt Plugin
 
 ### Installation
