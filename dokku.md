@@ -1,7 +1,5 @@
 # Dokku
 
-## General
-
 ## Application
 
 ### New application
